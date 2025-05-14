@@ -1,0 +1,1470 @@
+[
+  {
+    "diagnostico_de_enfermagem": "Risco de infecção",
+    "n": "344",
+    "": "84.5",
+    "necessidade_humana": "terapêutica e de prevenção",
+    "sinais_e_sintomas": [
+      "procedimento invasivo/ferida cirúrgica",
+      "defesas imunológicas reduzidas",
+      "exposição a agentes contaminantes"
+    ],
+    "resultado": "Controle do risco: processo infeccioso",
+    "indicadores": [
+      "Ausência de febre",
+      "Feridas sem exsudato",
+      "Leucócitos dentro da normalidade"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Controle de Infecção",
+        "acoes": [
+          "Lavar as mãos antes e após cada contato",
+          "Manter técnica asséptica em procedimentos",
+          "Trocar curativos conforme protocolo"
+        ]
+      },
+      {
+        "descricao": "Cuidados com feridas",
+        "acoes": [
+          "Lavar as mãos antes e após cada contato",
+          "Manter técnica asséptica em procedimentos",
+          "Trocar curativos conforme protocolo"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Integridade da pele prejudicada",
+    "n": "317",
+    "": "77.9",
+    "necessidade_humana": "integridade física",
+    "sinais_e_sintomas": [
+      "lesões/escoriações",
+      "eritema ou descamação",
+      "drenagem/umidade excessiva"
+    ],
+    "resultado": "Integridade tissular: pele e mucosas",
+    "indicadores": [
+      "Pele intacta",
+      "Ausência de vermelhidão",
+      "Cicatrização adequada"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Cuidados com a pele",
+        "acoes": [
+          "Inspecionar pele a cada 8h",
+          "Aplicar barreira protetora",
+          "Reposicionar paciente a cada 2h"
+        ]
+      },
+      {
+        "descricao": "Prevenção de Lesão por Pressão",
+        "acoes": [
+          "Inspecionar pele a cada 8h",
+          "Aplicar barreira protetora",
+          "Reposicionar paciente a cada 2h"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Dor aguda",
+    "n": "291",
+    "": "71.5",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "relato verbal de dor intensa",
+      "expressão facial de sofrimento",
+      "taquicardia/elevação da pressão arterial"
+    ],
+    "resultado": "Controle da dor",
+    "indicadores": [
+      "Escala de dor ≤ 3",
+      "Expressão facial relaxada",
+      "Sono repousante"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Controle da dor",
+        "acoes": [
+          "Avaliar intensidade da dor a cada 4h",
+          "Administrar analgésico conforme prescrição",
+          "Aplicar técnicas de relaxamento"
+        ]
+      },
+      {
+        "descricao": "Administração de Analgesia",
+        "acoes": [
+          "Avaliar intensidade da dor a cada 4h",
+          "Administrar analgésico conforme prescrição",
+          "Aplicar técnicas de relaxamento"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Conforto prejudicado",
+    "n": "278",
+    "": "68.3",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "inquietação verbal/física",
+      "expressão facial de desconforto",
+      "dificuldade para relaxar ou descansar"
+    ],
+    "resultado": "Conforto do paciente",
+    "indicadores": [
+      "Posição confortável",
+      "Relato de bem-estar",
+      "Sono restaurado"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Melhora do Conforto",
+        "acoes": [
+          "Ajustar leito e travesseiros",
+          "Reduzir ruídos do ambiente",
+          "Oferecer higiene oral"
+        ]
+      },
+      {
+        "descricao": "Controle Ambiental",
+        "acoes": [
+          "Ajustar leito e travesseiros",
+          "Reduzir ruídos do ambiente",
+          "Oferecer higiene oral"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Integridade tissular prejudicada",
+    "n": "220",
+    "": "54.1",
+    "necessidade_humana": "integridade física",
+    "sinais_e_sintomas": [
+      "ferida aberta/úlcera",
+      "tecido necrótico",
+      "exsudato purulento ou seroso"
+    ],
+    "resultado": "Cicatrização de ferida: primária",
+    "indicadores": [
+      "Redução de edema",
+      "Formação de tecido de granulação",
+      "Ausência de exsudato purulento"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Cuidados com feridas",
+        "acoes": [
+          "Limpar ferida com solução salina",
+          "Aplicar curativo estéril",
+          "Registrar aspecto da ferida"
+        ]
+      },
+      {
+        "descricao": "Gerenciamento de feridas",
+        "acoes": [
+          "Limpar ferida com solução salina",
+          "Aplicar curativo estéril",
+          "Registrar aspecto da ferida"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Mobilidade física prejudicada",
+    "n": "172",
+    "": "42.3",
+    "necessidade_humana": "atividade física",
+    "sinais_e_sintomas": [
+      "dificuldade para movimentar-se intencionalmente",
+      "amplitude de movimento limitada",
+      "instabilidade na marcha"
+    ],
+    "resultado": "Mobilidade física",
+    "indicadores": [
+      "Capacidade de mudança de posição",
+      "Ambulação independente",
+      "Força muscular preservada"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Terapia de Exercício: ambulatório",
+        "acoes": [
+          "Auxiliar a sentar-se no leito",
+          "Incentivar exercícios ativos de membros",
+          "Utilizar dispositivos de apoio"
+        ]
+      },
+      {
+        "descricao": "Posicionamento",
+        "acoes": [
+          "Auxiliar a sentar-se no leito",
+          "Incentivar exercícios ativos de membros",
+          "Utilizar dispositivos de apoio"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Ansiedade",
+    "n": "155",
+    "": "38.1",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "preocupação verbalizada",
+      "inquietação",
+      "taquicardia/sudorese"
+    ],
+    "resultado": "Controle da ansiedade",
+    "indicadores": [
+      "Nível de ansiedade relatado",
+      "Frequência cardíaca estável",
+      "Expressão facial tranquila"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Redução da Ansiedade",
+        "acoes": [
+          "Escutar preocupações do paciente",
+          "Ensinar técnicas de respiração profunda",
+          "Oferecer informações claras sobre procedimentos"
+        ]
+      },
+      {
+        "descricao": "Apoio Emocional",
+        "acoes": [
+          "Escutar preocupações do paciente",
+          "Ensinar técnicas de respiração profunda",
+          "Oferecer informações claras sobre procedimentos"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de sangramento",
+    "n": "150",
+    "": "36.9",
+    "necessidade_humana": "segurança física e meio ambiente",
+    "sinais_e_sintomas": [
+      "alterações na coagulação/plaquetopenia",
+      "uso de anticoagulantes",
+      "presença de incisão ou trauma recente"
+    ],
+    "resultado": "Coagulação sanguínea",
+    "indicadores": [
+      "Ausência de hematomas",
+      "Hemoglobina estável",
+      "Sangramento controlado"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Monitorização Hemodinâmica",
+        "acoes": [
+          "Observar curativos quanto a sangramento",
+          "Monitorar sinais vitais a cada 2h",
+          "Notificar equipe sobre sangramento ativo"
+        ]
+      },
+      {
+        "descricao": "Cuidados pós-operatórios",
+        "acoes": [
+          "Observar curativos quanto a sangramento",
+          "Monitorar sinais vitais a cada 2h",
+          "Notificar equipe sobre sangramento ativo"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de aspiração",
+    "n": "129",
+    "": "31.7",
+    "necessidade_humana": "segurança física e meio ambiente",
+    "sinais_e_sintomas": [
+      "diminuição do reflexo de tosse/deglutição",
+      "sede de secreções orofaríngeas",
+      "posicionamento inadequado na alimentação"
+    ],
+    "resultado": "Prevenção de aspiração",
+    "indicadores": [
+      "Ausência de tosse após alimentação",
+      "SpO2 ≥ 95%",
+      "Ausência de ruídos respiratórios adventícios"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Prevenção de aspiração",
+        "acoes": [
+          "Manter cabeceira elevada a 30o",
+          "Instruir sobre mastigação lenta",
+          "Aspiração de vias aéreas se necessário"
+        ]
+      },
+      {
+        "descricao": "Cuidados com alimentação",
+        "acoes": [
+          "Manter cabeceira elevada a 30o",
+          "Instruir sobre mastigação lenta",
+          "Aspiração de vias aéreas se necessário"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Capacidade de transferência prejudicada",
+    "n": "117",
+    "": "28.7",
+    "necessidade_humana": "atividade física",
+    "sinais_e_sintomas": [
+      "precisa de assistência para sair da cama/cadeira",
+      "fraqueza muscular",
+      "equilíbrio instável"
+    ],
+    "resultado": "Capacidade funcional: transferência",
+    "indicadores": [
+      "Número de transferências independentes",
+      "Uso adequado de dispositivos",
+      "Segurança durante a transferência"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Assistência na Transferência",
+        "acoes": [
+          "Avaliar necessidade de ajuda mecânica",
+          "Ensinar técnica de transferência",
+          "Garantir travas no leito e cadeira"
+        ]
+      },
+      {
+        "descricao": "Promoção da Segurança",
+        "acoes": [
+          "Avaliar necessidade de ajuda mecânica",
+          "Ensinar técnica de transferência",
+          "Garantir travas no leito e cadeira"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de disfunção neurovascular periférica",
+    "n": "92",
+    "": "22.6",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "imobilização por gesso/aparelho",
+      "edema ou dor extrema em extremidade",
+      "pulsos periféricos diminuídos"
+    ],
+    "resultado": "Estado neurovascular",
+    "indicadores": [
+      "Pulsos periféricos palpáveis",
+      "Sensibilidade preservada",
+      "Cor e temperatura adequadas"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Monitorização Neurovascular",
+        "acoes": [
+          "Avaliar pulsos e perfusão distal",
+          "Manter membro elevado",
+          "Educar sobre sinais de isquemia"
+        ]
+      },
+      {
+        "descricao": "Prevenção de Complicações",
+        "acoes": [
+          "Avaliar pulsos e perfusão distal",
+          "Manter membro elevado",
+          "Educar sobre sinais de isquemia"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de perfusão tissular cerebral ineficaz",
+    "n": "90",
+    "": "22.1",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "hipotensão prolongada",
+      "história de AVC",
+      "arritmias cardíacas/tromboembolismo"
+    ],
+    "resultado": "Perfusão cerebral",
+    "indicadores": [
+      "Nível de consciência estável",
+      "Pressão arterial dentro da meta",
+      "Escala de Glasgow mantida"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Monitorização Neurológica",
+        "acoes": [
+          "Avaliar Glasgow a cada 2h",
+          "Manter cabeceira a 30o",
+          "Administrar anti-hipertensivos conforme prescrição"
+        ]
+      },
+      {
+        "descricao": "Controle de Pressão Arterial",
+        "acoes": [
+          "Avaliar Glasgow a cada 2h",
+          "Manter cabeceira a 30o",
+          "Administrar anti-hipertensivos conforme prescrição"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Medo",
+    "n": "88",
+    "": "21.6",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "expressão facial de apreensão",
+      "relato de sensação de ameaça",
+      "evasão/hipervigilância"
+    ],
+    "resultado": "Respostas de enfrentamento",
+    "indicadores": [
+      "Verbaliza sentimento de segurança",
+      "Participa do plano de cuidados",
+      "Expressa controle"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Redução do Medo",
+        "acoes": [
+          "Explicar procedimentos passo a passo",
+          "Permitir presença de familiar",
+          "Reforçar capacidades do paciente"
+        ]
+      },
+      {
+        "descricao": "Apoio Emocional",
+        "acoes": [
+          "Explicar procedimentos passo a passo",
+          "Permitir presença de familiar",
+          "Reforçar capacidades do paciente"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de desequilíbrio do volume de líquido",
+    "n": "86",
+    "": "21.1",
+    "necessidade_humana": "hidratação",
+    "sinais_e_sintomas": [
+      "vômitos/diarreia",
+      "terapias com líquidos IV ou diuréticos",
+      "variações de peso em curto prazo"
+    ],
+    "resultado": "Equilíbrio hídrico",
+    "indicadores": [
+      "Peso corporal estável",
+      "Diurese adequada",
+      "Mucosas úmidas"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Gerenciamento de líquidos",
+        "acoes": [
+          "Registrar balanço hídrico",
+          "Avaliar turgor cutâneo",
+          "Ajustar oferta de líquidos"
+        ]
+      },
+      {
+        "descricao": "Monitorização de entradas e saídas",
+        "acoes": [
+          "Registrar balanço hídrico",
+          "Avaliar turgor cutâneo",
+          "Ajustar oferta de líquidos"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Padrão respiratório ineficaz",
+    "n": "84",
+    "": "20.6",
+    "necessidade_humana": "oxigenação",
+    "sinais_e_sintomas": [
+      "dispneia",
+      "uso de músculos acessórios",
+      "frequência respiratória alterada"
+    ],
+    "resultado": "Padrão respiratório",
+    "indicadores": [
+      "Frequência respiratória 12–20",
+      "Uso mínimo de músculos acessórios",
+      "Ausência de dispneia"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Terapia de Exercícios Respiratórios",
+        "acoes": [
+          "Ensinar respiração diafragmática",
+          "Ajustar oxigênio conforme prescrição",
+          "Monitorar SpO2 continuamente"
+        ]
+      },
+      {
+        "descricao": "Oxigenoterapia",
+        "acoes": [
+          "Ensinar respiração diafragmática",
+          "Ajustar oxigênio conforme prescrição",
+          "Monitorar SpO2 continuamente"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Ventilação espontânea prejudicada",
+    "n": "84",
+    "": "20.6",
+    "necessidade_humana": "oxigenação",
+    "sinais_e_sintomas": [
+      "hipoventilação",
+      "hipercapnia/hipoxemia",
+      "incapacidade de manter respiração efetiva"
+    ],
+    "resultado": "Ventilação alveolar",
+    "indicadores": [
+      "PaCO2 35–45 mmHg",
+      "SpO2 ≥ 95%",
+      "Padrão ventilatório adequado"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Ventilação Assistida",
+        "acoes": [
+          "Avaliar parâmetros ventilatórios",
+          "Realizar fisioterapia respiratória",
+          "Ajustar modos de ventilador"
+        ]
+      },
+      {
+        "descricao": "Desmame de Ventilação Mecânica",
+        "acoes": [
+          "Avaliar parâmetros ventilatórios",
+          "Realizar fisioterapia respiratória",
+          "Ajustar modos de ventilador"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Memória prejudicada",
+    "n": "77",
+    "": "18.9",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "dificuldade para lembrar eventos recentes",
+      "esquecimento de instruções",
+      "relato de lapsos de memória"
+    ],
+    "resultado": "Recordação de informações",
+    "indicadores": [
+      "Lembra eventos recentes",
+      "Lembra instruções dadas",
+      "Reconhece pessoas"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Treinamento de Memória",
+        "acoes": [
+          "Fornecer pistas verbais",
+          "Utilizar quadros de lembrete",
+          "Repetir informações importantes"
+        ]
+      },
+      {
+        "descricao": "Estimulação Cognitiva",
+        "acoes": [
+          "Fornecer pistas verbais",
+          "Utilizar quadros de lembrete",
+          "Repetir informações importantes"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de confusão aguda",
+    "n": "74",
+    "": "18.2",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "infecção ou distúrbio metabólico",
+      "hospitalização em UTI",
+      "uso de sedativos"
+    ],
+    "resultado": "Estado cognitivo",
+    "indicadores": [
+      "Orientação preservada",
+      "Atenção sustentada",
+      "Comportamento adequado"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Prevenção de Delirium",
+        "acoes": [
+          "Manter iluminação adequada",
+          "Reorientar paciente regularmente",
+          "Evitar mudanças bruscas de ambiente"
+        ]
+      },
+      {
+        "descricao": "Ambiente Seguro",
+        "acoes": [
+          "Manter iluminação adequada",
+          "Reorientar paciente regularmente",
+          "Evitar mudanças bruscas de ambiente"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Capacidade adaptativa intracraniana diminuída",
+    "n": "74",
+    "": "18.2",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "pressão intracraniana elevada",
+      "diminuição do nível de consciência",
+      "pupilas desiguais ou não reativas"
+    ],
+    "resultado": "Perfusão cerebral",
+    "indicadores": [
+      "PIC < 20 mmHg",
+      "Escala de Glasgow estável",
+      "PA adequada"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Controle de Pressão Intracraniana",
+        "acoes": [
+          "Elevar cabeceira 30o",
+          "Manter normotermia",
+          "Evitar hipercapnia"
+        ]
+      },
+      {
+        "descricao": "Monitorização Neurológica",
+        "acoes": [
+          "Elevar cabeceira 30o",
+          "Manter normotermia",
+          "Evitar hipercapnia"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de choque",
+    "n": "65",
+    "": "16.0",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "hemorragia/trauma",
+      "hipotensão persistente",
+      "taquicardia ou extremidades frias"
+    ],
+    "resultado": "Estado hemodinâmico",
+    "indicadores": [
+      "Pressão arterial média > 65 mmHg",
+      "Lactato sérico normal",
+      "Perfusão periférica adequada"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Prevenção de Choque",
+        "acoes": [
+          "Avaliar sinais vitais frequentemente",
+          "Manter acesso venoso calibroso",
+          "Reposição volêmica conforme protocolo"
+        ]
+      },
+      {
+        "descricao": "Monitorização Hemodinâmica",
+        "acoes": [
+          "Avaliar sinais vitais frequentemente",
+          "Manter acesso venoso calibroso",
+          "Reposição volêmica conforme protocolo"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Comunicação verbal prejudicada",
+    "n": "62",
+    "": "15.2",
+    "necessidade_humana": "comunicação",
+    "sinais_e_sintomas": [
+      "dificuldade para articular palavras",
+      "alterações no padrão de linguagem",
+      "frustração ao tentar comunicar-se"
+    ],
+    "resultado": "Comunicação do paciente",
+    "indicadores": [
+      "Expressa necessidades",
+      "Participa de conversas",
+      "Compreensão mútua"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Facilitação da Comunicação",
+        "acoes": [
+          "Usar quadro de comunicação",
+          "Falar devagar e claramente",
+          "Confirmar entendimento"
+        ]
+      },
+      {
+        "descricao": "Terapia da Fala",
+        "acoes": [
+          "Usar quadro de comunicação",
+          "Falar devagar e claramente",
+          "Confirmar entendimento"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Confusão aguda",
+    "n": "61",
+    "": "15.0",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "desorientação tempo‐espaço",
+      "pensamento incoerente",
+      "flutuação do nível de consciência"
+    ],
+    "resultado": "Orientação cognitiva",
+    "indicadores": [
+      "Orientação a pessoa, local, tempo",
+      "Pensamento coerente",
+      "Comportamento adequado"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Manejo do Delirium",
+        "acoes": [
+          "Fornecer calendário e relógio visíveis",
+          "Limitar estímulos à noite",
+          "Reavaliar medicações potencialmente causais"
+        ]
+      },
+      {
+        "descricao": "Estimulação Cognitiva",
+        "acoes": [
+          "Fornecer calendário e relógio visíveis",
+          "Limitar estímulos à noite",
+          "Reavaliar medicações potencialmente causais"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Percepção sensorial perturbada – visual e cinestésica",
+    "n": "57",
+    "": "14.0",
+    "necessidade_humana": "sensopercepção",
+    "sinais_e_sintomas": [
+      "visão turva",
+      "alteração da percepção de profundidade",
+      "desequilíbrio na movimentação do corpo"
+    ],
+    "resultado": "Integração sensorial",
+    "indicadores": [
+      "Descreve objetos corretamente",
+      "Coordenação motora adequada",
+      "Ausência de alucinações"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Aprimoramento dos Sentidos",
+        "acoes": [
+          "Fornecer óculos ou dispositivos",
+          "Orientar paciente no ambiente",
+          "Estimular exercícios proprioceptivos"
+        ]
+      },
+      {
+        "descricao": "Terapia Ocupacional",
+        "acoes": [
+          "Fornecer óculos ou dispositivos",
+          "Orientar paciente no ambiente",
+          "Estimular exercícios proprioceptivos"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de desequilíbrio na temperatura corporal",
+    "n": "53",
+    "": "13.0",
+    "necessidade_humana": "regulação térmica",
+    "sinais_e_sintomas": [
+      "exposição ambiental extrema",
+      "capacidade reduzida de suar ou tremer",
+      "septicemia/procedimentos anestésicos"
+    ],
+    "resultado": "Regulação da temperatura",
+    "indicadores": [
+      "Temperatura entre 36–37.5°C",
+      "Sem calafrios ou sudorese excessiva"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Controle de Temperatura",
+        "acoes": [
+          "Verificar temperatura a cada 4h",
+          "Ajustar cobertores ou roupas",
+          "Usar dispositivos de aquecimento/resfriamento"
+        ]
+      },
+      {
+        "descricao": "Monitorização da Temperatura",
+        "acoes": [
+          "Verificar temperatura a cada 4h",
+          "Ajustar cobertores ou roupas",
+          "Usar dispositivos de aquecimento/resfriamento"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Mucosa oral prejudicada",
+    "n": "50",
+    "": "12.3",
+    "necessidade_humana": "integridade física",
+    "sinais_e_sintomas": [
+      "ulcerações ou aftas",
+      "ressecamento/fissuras",
+      "sangramento gengival"
+    ],
+    "resultado": "Saúde bucal",
+    "indicadores": [
+      "Mucosa úmida",
+      "Ausência de lesões",
+      "Halitose ausente"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Cuidados Orais",
+        "acoes": [
+          "Realizar higiene oral após refeições",
+          "Oferecer enxaguante bucal sem álcool",
+          "Avaliar mucosa diariamente"
+        ]
+      },
+      {
+        "descricao": "Prevenção de Infecção Bucal",
+        "acoes": [
+          "Realizar higiene oral após refeições",
+          "Oferecer enxaguante bucal sem álcool",
+          "Avaliar mucosa diariamente"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Perfusão tissular periférica ineficaz",
+    "n": "50",
+    "": "12.3",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "pulsos periféricos fracos",
+      "extremidades frias ou cianóticas",
+      "tempo de enchimento capilar >3 s"
+    ],
+    "resultado": "Perfusão tissular periférica",
+    "indicadores": [
+      "Temperatura adequada nas extremidades",
+      "Tempo de enchimento capilar < 3s",
+      "Pulsos periféricos fortes"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Melhora da Circulação Periférica",
+        "acoes": [
+          "Estimular mobilização precoce",
+          "Manter membros elevados",
+          "Ensinar exercícios de bombeamento"
+        ]
+      },
+      {
+        "descricao": "Exercício Terapêutico",
+        "acoes": [
+          "Estimular mobilização precoce",
+          "Manter membros elevados",
+          "Ensinar exercícios de bombeamento"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Débito cardíaco diminuído",
+    "n": "47",
+    "": "11.5",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "hipotensão sistólica",
+      "edema periférico",
+      "dispneia ao esforço"
+    ],
+    "resultado": "Função cardíaca",
+    "indicadores": [
+      "FC 60–100 bpm",
+      "Pressão arterial estável",
+      "Ausência de edema pulmonar"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Monitorização Cardíaca",
+        "acoes": [
+          "Monitorar ECG contínuo",
+          "Administrar inotrópicos conforme prescrição",
+          "Avaliar balanço hídrico"
+        ]
+      },
+      {
+        "descricao": "Gerenciamento de Fármacos",
+        "acoes": [
+          "Monitorar ECG contínuo",
+          "Administrar inotrópicos conforme prescrição",
+          "Avaliar balanço hídrico"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Troca de gases prejudicada",
+    "n": "45",
+    "": "11.1",
+    "necessidade_humana": "oxigenação",
+    "sinais_e_sintomas": [
+      "saturação O2 < 90%",
+      "taquipneia",
+      "cianose"
+    ],
+    "resultado": "Troca gasosa",
+    "indicadores": [
+      "PaO2 ≥ 80 mmHg",
+      "SpO2 ≥ 95%",
+      "Ausência de cianose"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Monitorização Respiratória",
+        "acoes": [
+          "Posicionar em semi-Fowler",
+          "Realizar gasometria arterial",
+          "Incentivar espirometria"
+        ]
+      },
+      {
+        "descricao": "Oxigenoterapia",
+        "acoes": [
+          "Posicionar em semi-Fowler",
+          "Realizar gasometria arterial",
+          "Incentivar espirometria"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Hipotermia",
+    "n": "39",
+    "": "9.6",
+    "necessidade_humana": "regulação térmica",
+    "sinais_e_sintomas": [
+      "temperatura central < 35 °C",
+      "arrepios",
+      "pele fria/pálida"
+    ],
+    "resultado": "Temperatura corporal",
+    "indicadores": [
+      "Temperatura central ≥ 36°C",
+      "Extremidades aquecidas",
+      "Ausência de tremores"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Aquecimento",
+        "acoes": [
+          "Usar cobertores aquecidos",
+          "Aplicar dispositivo de aquecimento ativo",
+          "Monitorar temperatura a cada hora"
+        ]
+      },
+      {
+        "descricao": "Monitorização da Temperatura",
+        "acoes": [
+          "Usar cobertores aquecidos",
+          "Aplicar dispositivo de aquecimento ativo",
+          "Monitorar temperatura a cada hora"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Desobstrução ineficaz de vias aéreas",
+    "n": "37",
+    "": "9.1",
+    "necessidade_humana": "oxigenação",
+    "sinais_e_sintomas": [
+      "ruídos adventícios (roncos/estridor)",
+      "tosse ineficaz",
+      "secreção espessa ou abundante"
+    ],
+    "resultado": "Desobstrução das vias aéreas",
+    "indicadores": [
+      "Sons respiratórios claros",
+      "Ausência de secreções visíveis",
+      "SpO2 ≥ 95%"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Terapia de Tosse",
+        "acoes": [
+          "Ensinar tosse efetiva",
+          "Aspiração traqueal conforme necessidade",
+          "Hidratar secreções"
+        ]
+      },
+      {
+        "descricao": "Aspiração de Vias Aéreas",
+        "acoes": [
+          "Ensinar tosse efetiva",
+          "Aspiração traqueal conforme necessidade",
+          "Hidratar secreções"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de perfusão renal ineficaz",
+    "n": "32",
+    "": "7.9",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "hipovolemia",
+      "nefrotoxicidade medicamentosa",
+      "hipertensão severa/hipotensão prolongada"
+    ],
+    "resultado": "Perfusão renal",
+    "indicadores": [
+      "Diurese ≥ 0.5 mL/kg/h",
+      "Creatinina normal",
+      "Pressão arterial média adequada"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Monitorização Renal",
+        "acoes": [
+          "Controlar pressão arterial",
+          "Avaliar débito urinário hora a hora",
+          "Evitar nefrotóxicos"
+        ]
+      },
+      {
+        "descricao": "Gerenciamento de Volume",
+        "acoes": [
+          "Controlar pressão arterial",
+          "Avaliar débito urinário hora a hora",
+          "Evitar nefrotóxicos"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Dentição prejudicada",
+    "n": "31",
+    "": "7.6",
+    "necessidade_humana": "integridade física",
+    "sinais_e_sintomas": [
+      "cáries extensas",
+      "dentes fraturados",
+      "dor dentária"
+    ],
+    "resultado": "Integridade dentária",
+    "indicadores": [
+      "Dentes íntegros",
+      "Ausência de dor dental",
+      "Capacidade de mastigar"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Cuidados Dentários",
+        "acoes": [
+          "Escovação supervisionada",
+          "Encaminhar ao odontólogo",
+          "Evitar alimentos açucarados"
+        ]
+      },
+      {
+        "descricao": "Educação em Saúde Bucal",
+        "acoes": [
+          "Escovação supervisionada",
+          "Encaminhar ao odontólogo",
+          "Evitar alimentos açucarados"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de perfusão tissular cardíaca diminuída",
+    "n": "27",
+    "": "6.6",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "doença arterial coronariana",
+      "hiperlipidemia",
+      "tabagismo/diabetes"
+    ],
+    "resultado": "Perfusão miocárdica",
+    "indicadores": [
+      "Ausência de dor torácica",
+      "ECG sem alterações isquêmicas",
+      "Pressão arterial estável"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Prevenção de Isquemia Cardíaca",
+        "acoes": [
+          "Monitorar ECG",
+          "Controlar fatores de risco",
+          "Administrar nitratos conforme prescrição"
+        ]
+      },
+      {
+        "descricao": "Monitorização Hemodinâmica",
+        "acoes": [
+          "Monitorar ECG",
+          "Controlar fatores de risco",
+          "Administrar nitratos conforme prescrição"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de desequilíbrio eletrolítico",
+    "n": "25",
+    "": "6.1",
+    "necessidade_humana": "hidratação",
+    "sinais_e_sintomas": [
+      "uso de diuréticos",
+      "distúrbios endócrinos",
+      "vômitos/prolongada diarreia"
+    ],
+    "resultado": "Equilíbrio eletrolítico",
+    "indicadores": [
+      "Eletrólitos séricos dentro dos limites",
+      "ECG sem arritmias",
+      "Estado neurológico estável"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Monitorização de Eletrólitos",
+        "acoes": [
+          "Coletar exames laboratoriais",
+          "Administrar eletrólitos conforme prescrição",
+          "Monitorar ECG"
+        ]
+      },
+      {
+        "descricao": "Reposição/Substituição Eletrolítica",
+        "acoes": [
+          "Coletar exames laboratoriais",
+          "Administrar eletrólitos conforme prescrição",
+          "Monitorar ECG"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Conhecimento deficiente",
+    "n": "25",
+    "": "6.1",
+    "necessidade_humana": "terapêutica e de prevenção",
+    "sinais_e_sintomas": [
+      "relato de compreensão inadequada",
+      "questionamentos frequentes sobre tratamento",
+      "erro na execução de técnica"
+    ],
+    "resultado": "Conhecimento: regime terapêutico",
+    "indicadores": [
+      "Relata compreensão do tratamento",
+      "Cumpre orientações",
+      "Demonstra técnica correta"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Ensino de Saúde",
+        "acoes": [
+          "Avaliar nível de conhecimento",
+          "Utilizar materiais educativos",
+          "Solicitar retorno da informação"
+        ]
+      },
+      {
+        "descricao": "Orientação ao paciente",
+        "acoes": [
+          "Avaliar nível de conhecimento",
+          "Utilizar materiais educativos",
+          "Solicitar retorno da informação"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de perfusão tissular gastrintestinal ineficaz",
+    "n": "24",
+    "": "5.9",
+    "necessidade_humana": "regulação vascular",
+    "sinais_e_sintomas": [
+      "hemorragia digestiva",
+      "pressão arterial lábil",
+      "uso prolongado de vasopressores"
+    ],
+    "resultado": "Perfusão gastrintestinal",
+    "indicadores": [
+      "Ausência de dor abdominal",
+      "Sangramento GI ausente",
+      "Funcionalidade intestinal"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Prevenção de Isquemia GI",
+        "acoes": [
+          "Avaliar distensão e dor",
+          "Checar sangramento oculto",
+          "Manter perfusão adequada"
+        ]
+      },
+      {
+        "descricao": "Monitorização de Sinais GI",
+        "acoes": [
+          "Avaliar distensão e dor",
+          "Checar sangramento oculto",
+          "Manter perfusão adequada"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Volume de líquido deficiente",
+    "n": "22",
+    "": "5.4",
+    "necessidade_humana": "hidratação",
+    "sinais_e_sintomas": [
+      "mucosas secas",
+      "turgor diminuído",
+      "hipotensão ortostática"
+    ],
+    "resultado": "Hidratação",
+    "indicadores": [
+      "Mucosas úmidas",
+      "PA ortostática estável",
+      "Diurese ≥ 30 mL/h"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Reposição Volêmica Oral/EV",
+        "acoes": [
+          "Oferecer líquidos regularmente",
+          "Administrar fluidos EV",
+          "Controlar balanço hídrico"
+        ]
+      },
+      {
+        "descricao": "Monitorização de Entradas e Saídas",
+        "acoes": [
+          "Oferecer líquidos regularmente",
+          "Administrar fluidos EV",
+          "Controlar balanço hídrico"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Termorregulação ineficaz",
+    "n": "19",
+    "": "4.7",
+    "necessidade_humana": "regulação térmica",
+    "sinais_e_sintomas": [
+      "flutuações de temperatura corporal",
+      "pele quente ou fria inadequada ao ambiente",
+      "sudorese ou calafrios"
+    ],
+    "resultado": "Regulação da temperatura",
+    "indicadores": [
+      "Temperatura dentro da faixa",
+      "Ausência de calafrios/sudorese excessiva"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Modulação da Temperatura Corporal",
+        "acoes": [
+          "Avaliar temperatura regularmente",
+          "Ajustar ambiente",
+          "Utilizar medidas de resfriamento/aquecimento"
+        ]
+      },
+      {
+        "descricao": "Monitorização",
+        "acoes": [
+          "Avaliar temperatura regularmente",
+          "Ajustar ambiente",
+          "Utilizar medidas de resfriamento/aquecimento"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Náuseas",
+    "n": "18",
+    "": "4.4",
+    "necessidade_humana": "nutrição",
+    "sinais_e_sintomas": [
+      "relato verbal de enjoo",
+      "aumento de salivação",
+      "pallidez/taquicardia associada"
+    ],
+    "resultado": "Controle de náuseas e vômitos",
+    "indicadores": [
+      "Relato de ausência de náuseas",
+      "Ingestão oral adequada",
+      "Peso corporal estável"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Gerenciamento de Náuseas",
+        "acoes": [
+          "Oferecer refeições pequenas e frequentes",
+          "Administrar antiemético antes de deitar",
+          "Manter ambiente sem odores fortes"
+        ]
+      },
+      {
+        "descricao": "Administração de Antieméticos",
+        "acoes": [
+          "Oferecer refeições pequenas e frequentes",
+          "Administrar antiemético antes de deitar",
+          "Manter ambiente sem odores fortes"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Sofrimento moral",
+    "n": "9",
+    "": "2.2",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "sentimento de culpa",
+      "angústia relacionada a conflitos de valores",
+      "expressão verbal de agonia ou aflição"
+    ],
+    "resultado": "Bem-estar espiritual",
+    "indicadores": [
+      "Expressa paz com decisões",
+      "Participa de rituais significativos",
+      "Redução de angústia"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Apoio Espiritual",
+        "acoes": [
+          "Disponibilizar capelania",
+          "Explorar crenças",
+          "Facilitar presença de familiares"
+        ]
+      },
+      {
+        "descricao": "Promoção de Sentido",
+        "acoes": [
+          "Disponibilizar capelania",
+          "Explorar crenças",
+          "Facilitar presença de familiares"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Pesar",
+    "n": "8",
+    "": "2.0",
+    "necessidade_humana": "regulação neurológica",
+    "sinais_e_sintomas": [
+      "tristeza profunda",
+      "choro frequente",
+      "insônia/perda de apetite"
+    ],
+    "resultado": "Processo de luto",
+    "indicadores": [
+      "Expressa emoções",
+      "Participa de rituais de luto",
+      "Retoma atividades gradualmente"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Apoio ao Luto",
+        "acoes": [
+          "Ouvir ativamente",
+          "Encaminhar a grupo de apoio",
+          "Fornecer recursos de suporte"
+        ]
+      },
+      {
+        "descricao": "Aconselhamento",
+        "acoes": [
+          "Ouvir ativamente",
+          "Encaminhar a grupo de apoio",
+          "Fornecer recursos de suporte"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de díade mãe-feto perturbada",
+    "n": "1",
+    "": "0.2",
+    "necessidade_humana": "sexualidade e reprodução",
+    "sinais_e_sintomas": [
+      "ausência de cuidados pré-natais",
+      "comportamentos de risco materno (álcool/drogas)",
+      "diagnóstico médico que ameaça gestação"
+    ],
+    "resultado": "Vínculo materno-fetal",
+    "indicadores": [
+      "Expressa sentimentos positivos",
+      "Participa de cuidados pré-natais",
+      "Busca informações sobre gestação"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Promoção do Vínculo Mãe-Feto",
+        "acoes": [
+          "Estimular toque abdominal",
+          "Fornecer educação sobre gestação",
+          "Encorajar comunicação com o feto"
+        ]
+      },
+      {
+        "descricao": "Educação Pré-Natal",
+        "acoes": [
+          "Estimular toque abdominal",
+          "Fornecer educação sobre gestação",
+          "Encorajar comunicação com o feto"
+        ]
+      }
+    ]
+  }
+]
