@@ -27,9 +27,9 @@
       {
         "descricao": "Cuidados com feridas",
         "acoes": [
-          "Lavar as mãos antes e após cada contato",
-          "Manter técnica asséptica em procedimentos",
-          "Trocar curativos conforme protocolo"
+          "Realizar avaliação semanal da ferida",
+          "Instruir paciente sobre cuidados domiciliares",
+          "Aplicar cobertura com tecnologia avançada, se indicado"
         ]
       }
     ]
@@ -62,9 +62,9 @@
       {
         "descricao": "Prevenção de Lesão por Pressão",
         "acoes": [
-          "Inspecionar pele a cada 8h",
-          "Aplicar barreira protetora",
-          "Reposicionar paciente a cada 2h"
+          "Executar ações específicas relacionadas a 'prevenção de lesão por pressão'",
+          "Reavaliar efetividade da intervenção 'prevenção de lesão por pressão' após\n    24h",
+          "Documentar evolução do paciente em relação a 'prevenção de lesão por\n    pressão'"
         ]
       }
     ]
@@ -97,9 +97,9 @@
       {
         "descricao": "Administração de Analgesia",
         "acoes": [
-          "Avaliar intensidade da dor a cada 4h",
-          "Administrar analgésico conforme prescrição",
-          "Aplicar técnicas de relaxamento"
+          "Verificar prescrição médica antes da administração",
+          "Administrar medicação conforme horário estabelecido",
+          "Avaliar resposta à medicação 30 minutos após administração"
         ]
       }
     ]
@@ -132,9 +132,9 @@
       {
         "descricao": "Controle Ambiental",
         "acoes": [
-          "Ajustar leito e travesseiros",
-          "Reduzir ruídos do ambiente",
-          "Oferecer higiene oral"
+          "Minimizar movimentações desnecessárias no quarto",
+          "Evitar conversas paralelas durante repouso do paciente",
+          "Reduzir intensidade da luz artificial"
         ]
       }
     ]
@@ -167,9 +167,9 @@
       {
         "descricao": "Gerenciamento de feridas",
         "acoes": [
-          "Limpar ferida com solução salina",
-          "Aplicar curativo estéril",
-          "Registrar aspecto da ferida"
+          "Avaliar sinais de infecção na ferida",
+          "Orientar sobre cuidados domiciliares com ferida",
+          "Documentar evolução da cicatrização diariamente"
         ]
       }
     ]
@@ -202,9 +202,9 @@
       {
         "descricao": "Posicionamento",
         "acoes": [
-          "Auxiliar a sentar-se no leito",
-          "Incentivar exercícios ativos de membros",
-          "Utilizar dispositivos de apoio"
+          "Auxiliar paciente a mudar de posição regularmente",
+          "Ensinar exercícios ativos e passivos",
+          "Verificar presença de dor ao movimentar"
         ]
       }
     ]
@@ -237,9 +237,9 @@
       {
         "descricao": "Apoio Emocional",
         "acoes": [
-          "Escutar preocupações do paciente",
-          "Ensinar técnicas de respiração profunda",
-          "Oferecer informações claras sobre procedimentos"
+          "Estabelecer vínculo terapêutico com o paciente",
+          "Validar sentimentos expressos durante a conversa",
+          "Incentivar expressão verbal de emoções"
         ]
       }
     ]
@@ -272,9 +272,9 @@
       {
         "descricao": "Cuidados pós-operatórios",
         "acoes": [
-          "Observar curativos quanto a sangramento",
-          "Monitorar sinais vitais a cada 2h",
-          "Notificar equipe sobre sangramento ativo"
+          "Avaliar ferida cirúrgica quanto a sangramentos",
+          "Manter registro de sinais vitais no pós-operatório",
+          "Instruir paciente sobre sinais de alerta"
         ]
       }
     ]
@@ -307,9 +307,9 @@
       {
         "descricao": "Cuidados com alimentação",
         "acoes": [
-          "Manter cabeceira elevada a 30o",
-          "Instruir sobre mastigação lenta",
-          "Aspiração de vias aéreas se necessário"
+          "Executar ações específicas relacionadas a 'cuidados com alimentação'",
+          "Reavaliar efetividade da intervenção 'cuidados com alimentação' após 24h",
+          "Documentar evolução do paciente em relação a 'cuidados com alimentação'"
         ]
       }
     ]
@@ -342,9 +342,9 @@
       {
         "descricao": "Promoção da Segurança",
         "acoes": [
-          "Avaliar necessidade de ajuda mecânica",
-          "Ensinar técnica de transferência",
-          "Garantir travas no leito e cadeira"
+          "Executar ações específicas relacionadas a 'promoção da segurança'",
+          "Reavaliar efetividade da intervenção 'promoção da segurança' após 24h",
+          "Documentar evolução do paciente em relação a 'promoção da segurança'"
         ]
       }
     ]
@@ -377,9 +377,9 @@
       {
         "descricao": "Prevenção de Complicações",
         "acoes": [
-          "Avaliar pulsos e perfusão distal",
-          "Manter membro elevado",
-          "Educar sobre sinais de isquemia"
+          "Executar ações específicas relacionadas a 'prevenção de complicações'",
+          "Reavaliar efetividade da intervenção 'prevenção de complicações' após 24h",
+          "Documentar evolução do paciente em relação a 'prevenção de complicações'"
         ]
       }
     ]
@@ -412,9 +412,9 @@
       {
         "descricao": "Controle de Pressão Arterial",
         "acoes": [
-          "Avaliar Glasgow a cada 2h",
-          "Manter cabeceira a 30o",
-          "Administrar anti-hipertensivos conforme prescrição"
+          "Executar ações específicas relacionadas a 'controle de pressão arterial'",
+          "Reavaliar efetividade da intervenção 'controle de pressão arterial' após 24h",
+          "Documentar evolução do paciente em relação a 'controle de pressão arterial'"
         ]
       }
     ]
@@ -447,9 +447,9 @@
       {
         "descricao": "Apoio Emocional",
         "acoes": [
-          "Explicar procedimentos passo a passo",
-          "Permitir presença de familiar",
-          "Reforçar capacidades do paciente"
+          "Estabelecer vínculo terapêutico com o paciente",
+          "Validar sentimentos expressos durante a conversa",
+          "Incentivar expressão verbal de emoções"
         ]
       }
     ]
@@ -482,9 +482,9 @@
       {
         "descricao": "Monitorização de entradas e saídas",
         "acoes": [
-          "Registrar balanço hídrico",
-          "Avaliar turgor cutâneo",
-          "Ajustar oferta de líquidos"
+          "Executar ações específicas relacionadas a 'monitorização de entradas e\n    saídas'",
+          "Reavaliar efetividade da intervenção 'monitorização de entradas e saídas'\n    após 24h",
+          "Documentar evolução do paciente em relação a 'monitorização de entradas e\n    saídas'"
         ]
       }
     ]
@@ -517,9 +517,9 @@
       {
         "descricao": "Oxigenoterapia",
         "acoes": [
-          "Ensinar respiração diafragmática",
-          "Ajustar oxigênio conforme prescrição",
-          "Monitorar SpO2 continuamente"
+          "Executar ações específicas relacionadas a 'oxigenoterapia'",
+          "Reavaliar efetividade da intervenção 'oxigenoterapia' após 24h",
+          "Documentar evolução do paciente em relação a 'oxigenoterapia'"
         ]
       }
     ]
@@ -552,9 +552,9 @@
       {
         "descricao": "Desmame de Ventilação Mecânica",
         "acoes": [
-          "Avaliar parâmetros ventilatórios",
-          "Realizar fisioterapia respiratória",
-          "Ajustar modos de ventilador"
+          "Executar ações específicas relacionadas a 'desmame de ventilação mecânica'",
+          "Reavaliar efetividade da intervenção 'desmame de ventilação mecânica' após\n    24h",
+          "Documentar evolução do paciente em relação a 'desmame de ventilação mecânica'"
         ]
       }
     ]
@@ -587,9 +587,9 @@
       {
         "descricao": "Estimulação Cognitiva",
         "acoes": [
-          "Fornecer pistas verbais",
-          "Utilizar quadros de lembrete",
-          "Repetir informações importantes"
+          "Executar ações específicas relacionadas a 'estimulação cognitiva'",
+          "Reavaliar efetividade da intervenção 'estimulação cognitiva' após 24h",
+          "Documentar evolução do paciente em relação a 'estimulação cognitiva'"
         ]
       }
     ]
@@ -622,9 +622,9 @@
       {
         "descricao": "Ambiente Seguro",
         "acoes": [
-          "Manter iluminação adequada",
-          "Reorientar paciente regularmente",
-          "Evitar mudanças bruscas de ambiente"
+          "Reduzir ruídos no local de repouso",
+          "Controlar luminosidade para conforto visual",
+          "Garantir temperatura ambiente adequada"
         ]
       }
     ]
@@ -657,9 +657,9 @@
       {
         "descricao": "Monitorização Neurológica",
         "acoes": [
-          "Elevar cabeceira 30o",
-          "Manter normotermia",
-          "Evitar hipercapnia"
+          "Executar ações específicas relacionadas a 'monitorização neurológica'",
+          "Reavaliar efetividade da intervenção 'monitorização neurológica' após 24h",
+          "Documentar evolução do paciente em relação a 'monitorização neurológica'"
         ]
       }
     ]
@@ -692,9 +692,9 @@
       {
         "descricao": "Monitorização Hemodinâmica",
         "acoes": [
-          "Avaliar sinais vitais frequentemente",
-          "Manter acesso venoso calibroso",
-          "Reposição volêmica conforme protocolo"
+          "Avaliar PVC e PAM conforme protocolo",
+          "Manter equipamento de monitorização calibrado",
+          "Checar alarmes dos monitores a cada turno"
         ]
       }
     ]
@@ -727,9 +727,9 @@
       {
         "descricao": "Terapia da Fala",
         "acoes": [
-          "Usar quadro de comunicação",
-          "Falar devagar e claramente",
-          "Confirmar entendimento"
+          "Executar ações específicas relacionadas a 'terapia da fala'",
+          "Reavaliar efetividade da intervenção 'terapia da fala' após 24h",
+          "Documentar evolução do paciente em relação a 'terapia da fala'"
         ]
       }
     ]
@@ -762,9 +762,9 @@
       {
         "descricao": "Estimulação Cognitiva",
         "acoes": [
-          "Fornecer calendário e relógio visíveis",
-          "Limitar estímulos à noite",
-          "Reavaliar medicações potencialmente causais"
+          "Executar ações específicas relacionadas a 'estimulação cognitiva'",
+          "Reavaliar efetividade da intervenção 'estimulação cognitiva' após 24h",
+          "Documentar evolução do paciente em relação a 'estimulação cognitiva'"
         ]
       }
     ]
@@ -797,9 +797,9 @@
       {
         "descricao": "Terapia Ocupacional",
         "acoes": [
-          "Fornecer óculos ou dispositivos",
-          "Orientar paciente no ambiente",
-          "Estimular exercícios proprioceptivos"
+          "Executar ações específicas relacionadas a 'terapia ocupacional'",
+          "Reavaliar efetividade da intervenção 'terapia ocupacional' após 24h",
+          "Documentar evolução do paciente em relação a 'terapia ocupacional'"
         ]
       }
     ]
@@ -831,9 +831,9 @@
       {
         "descricao": "Monitorização da Temperatura",
         "acoes": [
-          "Verificar temperatura a cada 4h",
-          "Ajustar cobertores ou roupas",
-          "Usar dispositivos de aquecimento/resfriamento"
+          "Executar ações específicas relacionadas a 'monitorização da temperatura'",
+          "Reavaliar efetividade da intervenção 'monitorização da temperatura' após 24h",
+          "Documentar evolução do paciente em relação a 'monitorização da temperatura'"
         ]
       }
     ]
@@ -866,9 +866,9 @@
       {
         "descricao": "Prevenção de Infecção Bucal",
         "acoes": [
-          "Realizar higiene oral após refeições",
-          "Oferecer enxaguante bucal sem álcool",
-          "Avaliar mucosa diariamente"
+          "Executar ações específicas relacionadas a 'prevenção de infecção bucal'",
+          "Reavaliar efetividade da intervenção 'prevenção de infecção bucal' após 24h",
+          "Documentar evolução do paciente em relação a 'prevenção de infecção bucal'"
         ]
       }
     ]
@@ -901,9 +901,9 @@
       {
         "descricao": "Exercício Terapêutico",
         "acoes": [
-          "Estimular mobilização precoce",
-          "Manter membros elevados",
-          "Ensinar exercícios de bombeamento"
+          "Executar ações específicas relacionadas a 'exercício terapêutico'",
+          "Reavaliar efetividade da intervenção 'exercício terapêutico' após 24h",
+          "Documentar evolução do paciente em relação a 'exercício terapêutico'"
         ]
       }
     ]
@@ -936,9 +936,9 @@
       {
         "descricao": "Gerenciamento de Fármacos",
         "acoes": [
-          "Monitorar ECG contínuo",
-          "Administrar inotrópicos conforme prescrição",
-          "Avaliar balanço hídrico"
+          "Executar ações específicas relacionadas a 'gerenciamento de fármacos'",
+          "Reavaliar efetividade da intervenção 'gerenciamento de fármacos' após 24h",
+          "Documentar evolução do paciente em relação a 'gerenciamento de fármacos'"
         ]
       }
     ]
@@ -971,9 +971,9 @@
       {
         "descricao": "Oxigenoterapia",
         "acoes": [
-          "Posicionar em semi-Fowler",
-          "Realizar gasometria arterial",
-          "Incentivar espirometria"
+          "Executar ações específicas relacionadas a 'oxigenoterapia'",
+          "Reavaliar efetividade da intervenção 'oxigenoterapia' após 24h",
+          "Documentar evolução do paciente em relação a 'oxigenoterapia'"
         ]
       }
     ]
@@ -1006,9 +1006,9 @@
       {
         "descricao": "Monitorização da Temperatura",
         "acoes": [
-          "Usar cobertores aquecidos",
-          "Aplicar dispositivo de aquecimento ativo",
-          "Monitorar temperatura a cada hora"
+          "Executar ações específicas relacionadas a 'monitorização da temperatura'",
+          "Reavaliar efetividade da intervenção 'monitorização da temperatura' após 24h",
+          "Documentar evolução do paciente em relação a 'monitorização da temperatura'"
         ]
       }
     ]
@@ -1041,9 +1041,9 @@
       {
         "descricao": "Aspiração de Vias Aéreas",
         "acoes": [
-          "Ensinar tosse efetiva",
-          "Aspiração traqueal conforme necessidade",
-          "Hidratar secreções"
+          "Executar ações específicas relacionadas a 'aspiração de vias aéreas'",
+          "Reavaliar efetividade da intervenção 'aspiração de vias aéreas' após 24h",
+          "Documentar evolução do paciente em relação a 'aspiração de vias aéreas'"
         ]
       }
     ]
@@ -1076,9 +1076,9 @@
       {
         "descricao": "Gerenciamento de Volume",
         "acoes": [
-          "Controlar pressão arterial",
-          "Avaliar débito urinário hora a hora",
-          "Evitar nefrotóxicos"
+          "Executar ações específicas relacionadas a 'gerenciamento de volume'",
+          "Reavaliar efetividade da intervenção 'gerenciamento de volume' após 24h",
+          "Documentar evolução do paciente em relação a 'gerenciamento de volume'"
         ]
       }
     ]
@@ -1111,9 +1111,9 @@
       {
         "descricao": "Educação em Saúde Bucal",
         "acoes": [
-          "Escovação supervisionada",
-          "Encaminhar ao odontólogo",
-          "Evitar alimentos açucarados"
+          "Executar ações específicas relacionadas a 'educação em saúde bucal'",
+          "Reavaliar efetividade da intervenção 'educação em saúde bucal' após 24h",
+          "Documentar evolução do paciente em relação a 'educação em saúde bucal'"
         ]
       }
     ]
@@ -1146,9 +1146,9 @@
       {
         "descricao": "Monitorização Hemodinâmica",
         "acoes": [
-          "Monitorar ECG",
-          "Controlar fatores de risco",
-          "Administrar nitratos conforme prescrição"
+          "Avaliar PVC e PAM conforme protocolo",
+          "Manter equipamento de monitorização calibrado",
+          "Checar alarmes dos monitores a cada turno"
         ]
       }
     ]
@@ -1181,9 +1181,9 @@
       {
         "descricao": "Reposição/Substituição Eletrolítica",
         "acoes": [
-          "Coletar exames laboratoriais",
-          "Administrar eletrólitos conforme prescrição",
-          "Monitorar ECG"
+          "Executar ações específicas relacionadas a 'reposição/substituição\n    eletrolítica'",
+          "Reavaliar efetividade da intervenção 'reposição/substituição eletrolítica'\n    após 24h",
+          "Documentar evolução do paciente em relação a 'reposição/substituição\n    eletrolítica'"
         ]
       }
     ]
@@ -1216,9 +1216,9 @@
       {
         "descricao": "Orientação ao paciente",
         "acoes": [
-          "Avaliar nível de conhecimento",
-          "Utilizar materiais educativos",
-          "Solicitar retorno da informação"
+          "Executar ações específicas relacionadas a 'orientação ao paciente'",
+          "Reavaliar efetividade da intervenção 'orientação ao paciente' após 24h",
+          "Documentar evolução do paciente em relação a 'orientação ao paciente'"
         ]
       }
     ]
@@ -1251,9 +1251,9 @@
       {
         "descricao": "Monitorização de Sinais GI",
         "acoes": [
-          "Avaliar distensão e dor",
-          "Checar sangramento oculto",
-          "Manter perfusão adequada"
+          "Executar ações específicas relacionadas a 'monitorização de sinais gi'",
+          "Reavaliar efetividade da intervenção 'monitorização de sinais gi' após 24h",
+          "Documentar evolução do paciente em relação a 'monitorização de sinais gi'"
         ]
       }
     ]
@@ -1286,9 +1286,9 @@
       {
         "descricao": "Monitorização de Entradas e Saídas",
         "acoes": [
-          "Oferecer líquidos regularmente",
-          "Administrar fluidos EV",
-          "Controlar balanço hídrico"
+          "Executar ações específicas relacionadas a 'monitorização de entradas e\n    saídas'",
+          "Reavaliar efetividade da intervenção 'monitorização de entradas e saídas'\n    após 24h",
+          "Documentar evolução do paciente em relação a 'monitorização de entradas e\n    saídas'"
         ]
       }
     ]
@@ -1320,9 +1320,9 @@
       {
         "descricao": "Monitorização",
         "acoes": [
-          "Avaliar temperatura regularmente",
-          "Ajustar ambiente",
-          "Utilizar medidas de resfriamento/aquecimento"
+          "Executar ações específicas relacionadas a 'monitorização'",
+          "Reavaliar efetividade da intervenção 'monitorização' após 24h",
+          "Documentar evolução do paciente em relação a 'monitorização'"
         ]
       }
     ]
@@ -1355,9 +1355,9 @@
       {
         "descricao": "Administração de Antieméticos",
         "acoes": [
-          "Oferecer refeições pequenas e frequentes",
-          "Administrar antiemético antes de deitar",
-          "Manter ambiente sem odores fortes"
+          "Executar ações específicas relacionadas a 'administração de antieméticos'",
+          "Reavaliar efetividade da intervenção 'administração de antieméticos' após 24h",
+          "Documentar evolução do paciente em relação a 'administração de antieméticos'"
         ]
       }
     ]
@@ -1390,9 +1390,9 @@
       {
         "descricao": "Promoção de Sentido",
         "acoes": [
-          "Disponibilizar capelania",
-          "Explorar crenças",
-          "Facilitar presença de familiares"
+          "Executar ações específicas relacionadas a 'promoção de sentido'",
+          "Reavaliar efetividade da intervenção 'promoção de sentido' após 24h",
+          "Documentar evolução do paciente em relação a 'promoção de sentido'"
         ]
       }
     ]
@@ -1425,9 +1425,9 @@
       {
         "descricao": "Aconselhamento",
         "acoes": [
-          "Ouvir ativamente",
-          "Encaminhar a grupo de apoio",
-          "Fornecer recursos de suporte"
+          "Executar ações específicas relacionadas a 'aconselhamento'",
+          "Reavaliar efetividade da intervenção 'aconselhamento' após 24h",
+          "Documentar evolução do paciente em relação a 'aconselhamento'"
         ]
       }
     ]
@@ -1460,9 +1460,84 @@
       {
         "descricao": "Educação Pré-Natal",
         "acoes": [
-          "Estimular toque abdominal",
-          "Fornecer educação sobre gestação",
-          "Encorajar comunicação com o feto"
+          "Executar ações específicas relacionadas a 'educação pré-natal'",
+          "Reavaliar efetividade da intervenção 'educação pré-natal' após 24h",
+          "Documentar evolução do paciente em relação a 'educação pré-natal'"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Nutrição desequilibrada: ingestão inferior às necessidades corporais",
+    "necessidade_humana": "nutrição",
+    "sinais_e_sintomas": [
+      "perda de peso recente",
+      "diminuição da ingestão alimentar",
+      "debilidade muscular"
+    ],
+    "resultado": "Estado nutricional",
+    "indicadores": [
+      "Peso corporal adequado",
+      "Ingestão calórica suficiente",
+      "Força muscular mantida"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Promoção da ingestão nutricional",
+        "acoes": [
+          "Oferecer pequenas refeições frequentes",
+          "Monitorar ingesta alimentar diária",
+          "Consultar serviço de nutrição"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de nutrição desequilibrada: ingestão inferior às necessidades corporais",
+    "necessidade_humana": "nutrição",
+    "sinais_e_sintomas": [
+      "dificuldade para mastigar ou engolir",
+      "problemas digestivos",
+      "estado de saúde debilitado"
+    ],
+    "resultado": "Estado nutricional",
+    "indicadores": [
+      "Manutenção do peso",
+      "Apetite preservado",
+      "Ausência de sinais de desnutrição"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Prevenção de desnutrição",
+        "acoes": [
+          "Avaliar padrão alimentar",
+          "Adaptar dieta às preferências e necessidades",
+          "Oferecer suporte durante a alimentação"
+        ]
+      }
+    ]
+  },
+  {
+    "diagnostico_de_enfermagem": "Risco de glicemia instável",
+    "necessidade_humana": "nutrição",
+    "sinais_e_sintomas": [
+      "uso de insulina ou antidiabéticos",
+      "alterações no padrão alimentar",
+      "sinais de hipo ou hiperglicemia"
+    ],
+    "resultado": "Controle glicêmico",
+    "indicadores": [
+      "Glicemia dentro da faixa desejada",
+      "Ausência de sintomas de hipoglicemia",
+      "Ausência de sintomas de hiperglicemia"
+    ],
+    "intervencoes": [
+      {
+        "descricao": "Controle da glicemia",
+        "acoes": [
+          "Monitorar glicemia capilar conforme prescrição",
+          "Orientar sobre dieta para diabéticos",
+          "Reconhecer sinais e sintomas de hipo/hiperglicemia"
         ]
       }
     ]

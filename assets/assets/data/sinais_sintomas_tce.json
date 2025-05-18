@@ -1,195 +1,211 @@
 [
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Atividade Física",
-        "sintomas": [
-            "Amplitude de movimento limitada",
-            "Dificuldade ou incapacidade de locomoção",
-            "Dificuldade para movimentar-se intencionalmente",
-            "Déficit motor (paresias, paralisias)",
-            "Equilíbrio instável",
-            "Fraqueza muscular",
-            "Imobilização com colar cervical, talas ou contenções",
-            "Instabilidade na marcha",
-            "Precisa de assistência para sair da cama/cadeira"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Eliminação",
-        "sintomas": [
-            "Constipação associada à imobilidade ou opioides",
-            "Incontinência fecal",
-            "Incontinência urinária",
-            "Necessidade de uso de sonda vesical",
-            "Retenção urinária"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Hidratação",
-        "sintomas": [
-            "Hipotensão ortostática",
-            "Mucosas secas",
-            "Turgor diminuído",
-            "Uso de diuréticos",
-            "Variações de peso em curto prazo",
-            "Vômitos/diarreia",
-            "Vômitos/prolongada diarreia"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Integridade Física",
-        "sintomas": [
-            "Edema ou equimoses em regiões específicas",
-            "Feridas traumáticas ou cirúrgicas (ex: craniotomia)",
-            "Lesões/escoriações",
-            "Presença de curativos, drenos ou pontos",
-            "Risco de lesão por pressão",
-            "Tecido necrótico"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Nutrição",
-        "sintomas": [
-            "Relato verbal de enjoo",
-            "Aumento de salivação",
-            "Pallidez/taquicardia associada"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Oxigenação",
-        "sintomas": [
-            "Dispneia",
-            "Hipoventilação",
-            "Incidência de hipercapnia/hipoxemia",
-            "Necessidade de oxigenoterapia ou via aérea avançada",
-            "Ruídos adventícios (roncos/estridor)",
-            "Saturação de oxigênio < 92%",
-            "Taquipneia",
-            "Uso de músculos acessórios"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Regulação Hormonal",
-        "sintomas": [
-            "Hipernatremia ou hiponatremia",
-            "Hipoglicemia ou hiperglicemia",
-            "Sinais de diabetes insipidus (diurese > 200ml/h)",
-            "SIADH (retenção hídrica, hiponatremia dilucional)"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Regulação Neurológica",
-        "sintomas": [
-            "Ansiedade verbalizada",
-            "Confusão aguda",
-            "Convulsões",
-            "Desorientação tempo-espaço",
-            "Dor relatada e expressão facial de sofrimento",
-            "Escala de Coma de Glasgow < 15",
-            "Expressão facial de desconforto",
-            "Inquietação verbal/física",
-            "Nível de consciência rebaixado",
-            "Reflexos neurológicos anormais (ex: Babinski positivo)",
-            "Sinais de hipertensão intracraniana (ex: vômitos em jato, pupilas dilatadas)",
-            "Tristeza profunda"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Regulação Sensopercepção",
-        "sintomas": [
-            "Ausência de resposta a estímulos dolorosos",
-            "Déficit visual ou auditivo",
-            "Desorientação no tempo, espaço ou pessoa",
-            "Pupilas desiguais (anisocoria)",
-            "Visão turva"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Regulação Térmica",
-        "sintomas": [
-            "Febre persistente (> 37,8 °C)",
-            "Flutuações de temperatura corporal",
-            "Hipotermia",
-            "Pele fria ou quente inadequada ao ambiente",
-            "Sudorese profusa"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Regulação Vascular",
-        "sintomas": [
-            "Débito cardíaco diminuído (hipotensão sistólica, edema periférico)",
-            "Extremidades frias ou cianóticas",
-            "Hipertensão arterial",
-            "Hipotensão arterial",
-            "Perfusão periférica diminuída (tempo de enchimento capilar > 3 s)",
-            "Pulsos periféricos fracos",
-            "Sangramentos ativos",
-            "Taquicardia ou extremidades frias"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Segurança Física E Meio Ambiente",
-        "sintomas": [
-            "Alterações na coagulação/plaquetopenia",
-            "Diminuição do reflexo de tosse/deglutição",
-            "Edema ou dor extrema em extremidade engessada",
-            "Exposição a ambientes contaminantes ou contaminados",
-            "Presença de incisão ou trauma recente",
-            "Uso de anticoagulantes"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Sensopercepção",
-        "sintomas": [
-            "Alteração da percepção de profundidade",
-            "Desequilíbrio na movimentação do corpo",
-            "Visão turva"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Sexualidade E Reprodução",
-        "sintomas": [
-            "Ausência de cuidados pré-natais",
-            "Comportamentos de risco materno (álcool/drogas)",
-            "Diagnóstico médico que ameaça gestação"
-        ]
-    },
-    {
-        "grupo": "Psicobiológicas",
-        "necessidade": "Terapêutica E De Prevenção",
-        "sintomas": [
-            "Defesas imunológicas reduzidas",
-            "Erro na execução de técnica",
-            "Exposição a agentes contaminantes",
-            "Procedimento invasivo/ferida cirúrgica",
-            "Questionamentos frequentes sobre tratamento",
-            "Relato de compreensão inadequada"
-        ]
-    },
-    {
-        "grupo": "Psicossociais",
-        "necessidade": "Comunicação",
-        "sintomas": [
-            "Afasia (não compreende ou não consegue expressar linguagem verbal)",
-            "Alterações no padrão de linguagem",
-            "Dificuldade de comunicação não verbal (olhar, gestos, expressões faciais)",
-            "Dificuldade para articular palavras",
-            "Disartria (fala arrastada ou incompreensível)",
-            "Frustração ao tentar comunicar-se",
-            "Impossibilidade de comunicação verbal (por intubação ou sedação)"
-        ]
-    }
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "terapêutica e de prevenção",
+    "sintomas": [
+      "defesas imunológicas reduzidas",
+      "erro na execução de técnica",
+      "exposição a agentes contaminantes",
+      "procedimento invasivo/ferida cirúrgica",
+      "questionamentos frequentes sobre tratamento",
+      "relato de compreensão inadequada"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "integridade física",
+    "sintomas": [
+      "cáries extensas",
+      "dentes fraturados",
+      "dor dentária",
+      "drenagem/umidade excessiva",
+      "eritema ou descamação",
+      "exsudato purulento ou seroso",
+      "ferida aberta/úlcera",
+      "lesões/escoriações",
+      "ressecamento/fissuras",
+      "sangramento gengival",
+      "tecido necrótico",
+      "ulcerações ou aftas"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "regulação neurológica",
+    "sintomas": [
+      "angústia relacionada a conflitos de valores",
+      "choro frequente",
+      "desorientação tempo‐espaço",
+      "dificuldade para lembrar eventos recentes",
+      "dificuldade para relaxar ou descansar",
+      "diminuição do nível de consciência",
+      "esquecimento de instruções",
+      "evasão/hipervigilância",
+      "expressão facial de apreensão",
+      "expressão facial de desconforto",
+      "expressão facial de sofrimento",
+      "expressão verbal de agonia ou aflição",
+      "flutuação do nível de consciência",
+      "hospitalização em UTI",
+      "infecção ou distúrbio metabólico",
+      "inquietação",
+      "inquietação verbal/física",
+      "insônia/perda de apetite",
+      "pensamento incoerente",
+      "preocupação verbalizada",
+      "pressão intracraniana elevada",
+      "pupilas desiguais ou não reativas",
+      "relato de lapsos de memória",
+      "relato de sensação de ameaça",
+      "relato verbal de dor intensa",
+      "sentimento de culpa",
+      "taquicardia/elevação da pressão arterial",
+      "taquicardia/sudorese",
+      "tristeza profunda",
+      "uso de sedativos"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "atividade física",
+    "sintomas": [
+      "amplitude de movimento limitada",
+      "dificuldade para movimentar-se intencionalmente",
+      "equilíbrio instável",
+      "fraqueza muscular",
+      "instabilidade na marcha",
+      "precisa de assistência para sair da cama/cadeira"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "segurança física e meio ambiente",
+    "sintomas": [
+      "alterações na coagulação/plaquetopenia",
+      "diminuição do reflexo de tosse/deglutição",
+      "posicionamento inadequado na alimentação",
+      "presença de incisão ou trauma recente",
+      "sede de secreções orofaríngeas",
+      "uso de anticoagulantes"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "regulação vascular",
+    "sintomas": [
+      "arritmias cardíacas/tromboembolismo",
+      "dispneia ao esforço",
+      "doença arterial coronariana",
+      "edema ou dor extrema em extremidade",
+      "edema periférico",
+      "extremidades frias ou cianóticas",
+      "hemorragia digestiva",
+      "hemorragia/trauma",
+      "hiperlipidemia",
+      "hipertensão severa/hipotensão prolongada",
+      "hipotensão persistente",
+      "hipotensão prolongada",
+      "hipotensão sistólica",
+      "hipovolemia",
+      "história de AVC",
+      "imobilização por gesso/aparelho",
+      "nefrotoxicidade medicamentosa",
+      "pressão arterial lábil",
+      "pulsos periféricos diminuídos",
+      "pulsos periféricos fracos",
+      "tabagismo/diabetes",
+      "taquicardia ou extremidades frias",
+      "tempo de enchimento capilar >3 s",
+      "uso prolongado de vasopressores"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "hidratação",
+    "sintomas": [
+      "distúrbios endócrinos",
+      "hipotensão ortostática",
+      "mucosas secas",
+      "terapias com líquidos IV ou diuréticos",
+      "turgor diminuído",
+      "uso de diuréticos",
+      "variações de peso em curto prazo",
+      "vômitos/diarreia",
+      "vômitos/prolongada diarreia"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "oxigenação",
+    "sintomas": [
+      "cianose",
+      "dispneia",
+      "frequência respiratória alterada",
+      "hipercapnia/hipoxemia",
+      "hipoventilação",
+      "incapacidade de manter respiração efetiva",
+      "ruídos adventícios (roncos/estridor)",
+      "saturação O2 < 90%",
+      "secreção espessa ou abundante",
+      "taquipneia",
+      "tosse ineficaz",
+      "uso de músculos acessórios"
+    ]
+  },
+  {
+    "grupo": "Psicossocial",
+    "necessidade": "comunicação",
+    "sintomas": [
+      "alterações no padrão de linguagem",
+      "dificuldade para articular palavras",
+      "frustração ao tentar comunicar-se"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "sensopercepção",
+    "sintomas": [
+      "alteração da percepção de profundidade",
+      "desequilíbrio na movimentação do corpo",
+      "visão turva"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "regulação térmica",
+    "sintomas": [
+      "arrepios",
+      "capacidade reduzida de suar ou tremer",
+      "exposição ambiental extrema",
+      "flutuações de temperatura corporal",
+      "pele fria/pálida",
+      "pele quente ou fria inadequada ao ambiente",
+      "septicemia/procedimentos anestésicos",
+      "sudorese ou calafrios",
+      "temperatura central < 35 °C"
+    ]
+  },
+  {
+    "grupo": "Psicobiológicas",
+    "necessidade": "nutrição",
+    "sintomas": [
+      "dificuldade para mastigar ou engolir",
+      "relato de inapetência",
+      "emagrecimento progressivo",
+      "náuseas frequentes",
+      "alimentação oral suspensa",
+      "acesso venoso central para nutrição",
+      "gastrostomia ou sonda enteral instalada",
+      "relato de gosto metálico ou alteração do paladar",
+      "evidência de ingesta calórica insuficiente",
+      "recusa alimentar",
+      "perda de peso recente",
+      "debilidade muscular",
+      "problemas digestivos",
+      "estado de saúde debilitado",
+      "uso de insulina ou antidiabéticos",
+      "alterações no padrão alimentar",
+      "sinais de hipo ou hiperglicemia"
+    ]
+  }
 ]
